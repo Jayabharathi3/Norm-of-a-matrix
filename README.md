@@ -20,7 +20,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```Python
 
 # Register No:22008485
-# Developed By:JAYABHARATHI S
+# Developed By:JAYABHARATHI . S
 
 # 1-Norm of a Matrix
 
